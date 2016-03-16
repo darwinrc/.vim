@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/etc/profile.d'
+let g:netrw_dirhist_2='/home/darwin/Src/saasbook'
+let g:netrw_dirhist_3='/home/darwin/Src/saasbook/rottenpotatoes-rails-intro'
+let g:netrw_dirhist_4='/home/darwin/Src/rspec_book/.git'
+let g:netrw_dirhist_5='/home/darwin/Src/saasbook/hw-oracle-of-bacon'
+let g:netrw_dirhist_6='/home/darwin/Src/saasbook/typo'
